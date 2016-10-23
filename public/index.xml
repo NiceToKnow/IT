@@ -2,144 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nice To Know IT</title>
-    <link>http://nicetoknow.github.io/IT/index.xml</link>
+    <link>https://nicetoknow.github.io/IT/index.xml</link>
     <description>Recent content on Nice To Know IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://nicetoknow.github.io/IT/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nicetoknow.github.io/IT/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/config-files/Config-Files/</link>
+      <link>https://nicetoknow.github.io/IT/config-files/Config-Files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/config-files/Config-Files/</guid>
+      <guid>https://nicetoknow.github.io/IT/config-files/Config-Files/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/config-files/JSON/</link>
+      <link>https://nicetoknow.github.io/IT/config-files/JSON/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/config-files/JSON/</guid>
+      <guid>https://nicetoknow.github.io/IT/config-files/JSON/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/config-files/TOML/</link>
+      <link>https://nicetoknow.github.io/IT/config-files/TOML/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/config-files/TOML/</guid>
+      <guid>https://nicetoknow.github.io/IT/config-files/TOML/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/config-files/XML/</link>
+      <link>https://nicetoknow.github.io/IT/config-files/XML/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/config-files/XML/</guid>
+      <guid>https://nicetoknow.github.io/IT/config-files/XML/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/config-files/YAML/</link>
+      <link>https://nicetoknow.github.io/IT/config-files/YAML/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/config-files/YAML/</guid>
+      <guid>https://nicetoknow.github.io/IT/config-files/YAML/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/AWS%20S3/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/AWS%20S3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/AWS%20S3/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/AWS%20S3/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/Cassandra/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/Cassandra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/Cassandra/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/Cassandra/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/Database%20&amp;%20Storage/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/Database%20&amp;%20Storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/Database%20&amp;%20Storage/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/Database%20&amp;%20Storage/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/Hadoop/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/Hadoop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/Hadoop/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/Hadoop/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/Memcached/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/Memcached/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/Memcached/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/Memcached/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/MongoDB/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/MongoDB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/MongoDB/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/MongoDB/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/database--storage/redis/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/database--storage/redis/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/editors/Atom/</link>
+      <link>https://nicetoknow.github.io/IT/editors/Atom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/editors/Atom/</guid>
+      <guid>https://nicetoknow.github.io/IT/editors/Atom/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://nicetoknow.github.io/IT/editors/Eclipse/</link>
+      <link>https://nicetoknow.github.io/IT/editors/Eclipse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nicetoknow.github.io/IT/editors/Eclipse/</guid>
+      <guid>https://nicetoknow.github.io/IT/editors/Eclipse/</guid>
       <description></description>
     </item>
     
