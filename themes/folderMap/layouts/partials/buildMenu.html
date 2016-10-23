@@ -1,0 +1,27 @@
+{{ $currentNode := . }}
+{{ range .Site.Menus.main }}
+    {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+        {{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+	    {{ if .HasChildren }}
+		    {{ range .Children }}
+			{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+				{{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+				{{ if .HasChildren }}
+				    {{ range .Children }}
+					{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+						{{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+						{{ if .HasChildren }}
+			  				{{ range .Children }}
+							{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+								{{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+				  			{{ end }}		    
+			  				{{ end }}
+			    	{{ end }}
+			    	{{ end }}		    
+		    {{ end }}
+			{{ end }}
+		{{ end }}
+	    {{ end }}
+	{{ end }}
+{{ end }}	    
+{{end}}

@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+<nav class="breadcrumb">
+    <a href="{{.Site.BaseURL}}">Home</a> 
+</nav>
+
+<div class="topics">
+	{{ range .Site.Menus.main }}
+		{{ partial "children.html" . }}
+{{end}}
+</div>
+
+
+
+<div class="content">
+	{{ range where .Data.Pages "Title" "Home" }}
+        {{ .Content }}
+    {{ end }}
+</div>
+
+{{ partial "tree.html" . }}
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,25 @@
+<ul>{{ range .Site.Menus.main }}
+    <li>{{ .Name }}</li>
+    {{ if .HasChildren }}
+        <ul>
+        {{ range .Children }}				    
+    	    <li>{{ .Name }}</li>
+            {{ if .HasChildren }}
+                <ul>
+    	        {{ range .Children }}				    
+    	    	    <li>{{ .Name }}</li>
+                    {{ if .HasChildren }}
+                        <ul>
+    	                {{ range .Children }}				    
+    	           	        <li>{{ .Name }}</li>
+    	               {{ end }}
+                        </ul>
+    	           {{ end }}
+    	        {{ end }}
+                </ul>
+    	    {{ end }}
+    	{{ end }}
+        </ul>
+    {{ end }}
+{{end}}
+</ul>
