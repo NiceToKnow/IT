@@ -1,0 +1,1 @@
+&lt;node TEXT=&quot;{{ .Name }}&quot;&gt;{{ if .HasChildren }}{{ range .Children }}{{ partial "node.html" .}}{{ end }}{{ end }}&lt;&#x2F;node&gt;

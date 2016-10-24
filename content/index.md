@@ -28,5 +28,7 @@ That's the beauty of it: This how site is a folder structure in a github-project
 You can use the usual github-workflow (fork or branch, change, commit or create a pull request) 
 or add an issue in the original repo.
 
-# I still like tree-like mindmaps. Get I get those?
-Sure, here you go:
+# I still like tree-like mindmaps. Can I get one of those?
+Sure, here you go: Copy the following code into a `*.mm` file and replaces any "&" characters. 
+You can open the file in programs like [FreeMind](http://freemind.sourceforge.net/) and web apps
+like <a href="http://coggle.it/" target="_blank">coggle</a>.
