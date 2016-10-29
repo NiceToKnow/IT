@@ -32,7 +32,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/database--storage/Cassandra/</guid>
-      <description></description>
+      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/CoackroachDB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/CoackroachDB/</guid>
+      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -69,6 +80,38 @@
       
       <guid>https://nicetoknow.github.io/IT/database--storage/MongoDB/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/Riak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/Riak/</guid>
+      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</guid>
+      <description>&lt;p&gt;Search Engine&lt;/p&gt;
+
+&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/etcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/etcd/</guid>
+      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
+</description>
     </item>
     
     <item>

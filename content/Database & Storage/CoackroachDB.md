@@ -1,7 +1,7 @@
 +++
 [menu.main]
-Name = "Cassandra"
-identifier = "Cassandra"
+Name = "CoackroachDB"
+identifier = "CoackroachDB"
 parent = "Database & Storage"
 +++
 

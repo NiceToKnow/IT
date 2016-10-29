@@ -1,8 +1,9 @@
 +++
 [menu.main]
-Name = "Cassandra"
-identifier = "Cassandra"
+Name = "Riak"
+identifier = "Riak"
 parent = "Database & Storage"
 +++
 
 Cloud Native / Cluster Aware
+
