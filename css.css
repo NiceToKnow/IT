@@ -20,7 +20,8 @@ html {
     border: 1px solid black;
     flex-grow: 1;
     flex-basis: content;
-    background-color: rgba(234, 233, 224, 0.5);    
+    background-color: #CCC;
+    opacity: 0.9;
 }
 
 .topic>a {

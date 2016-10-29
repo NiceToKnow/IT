@@ -38,6 +38,10 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/CoackroachDB/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/database--storage/Database%20&amp;%20Storage/</loc>
   </url>
   
@@ -51,6 +55,18 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/database--storage/MongoDB/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/Riak/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/etcd/</loc>
   </url>
   
   <url>
