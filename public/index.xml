@@ -127,20 +127,27 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/editors/Atom/</link>
+      <link>https://nicetoknow.github.io/IT/docker-cluster-management/Docker%20Cluster%20Management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/editors/Atom/</guid>
-      <description></description>
+      <guid>https://nicetoknow.github.io/IT/docker-cluster-management/Docker%20Cluster%20Management/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/editors/Eclipse/</link>
+      <link>https://nicetoknow.github.io/IT/docker-cluster-management/Docker%20Swarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/editors/Eclipse/</guid>
-      <description></description>
+      <guid>https://nicetoknow.github.io/IT/docker-cluster-management/Docker%20Swarm/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus voluptates dolorum odio dolore impedit architecto quisquam accusantium assumenda delectus rem veritatis voluptate adipisci fugit molestias explicabo, cumque accusamus magnam sed?&lt;/p&gt;
+</description>
     </item>
     
   </channel>
