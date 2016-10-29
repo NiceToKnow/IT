@@ -2,7 +2,7 @@
 [menu.main]
 Name = "Docker Cluster Management"
 identifier = "DockerClusterManagement"
-parent = ""
+parent = "Docker"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
