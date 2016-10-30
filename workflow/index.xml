@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow-rsses on IT</title>
+    <link>https://nicetoknow.github.io/IT/workflow/index.xml</link>
+    <description>Recent content in Workflow-rsses on IT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nicetoknow.github.io/IT/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/workflow/Cybersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/workflow/Cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/workflow/Luigi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/workflow/Luigi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Workflow mgmgt + task scheduling + dependency resolution&lt;/li&gt;
+&lt;li&gt;Python module&lt;/li&gt;
+&lt;li&gt;create pipelines of batch jobs&lt;/li&gt;
+&lt;li&gt;developed by Spotify&lt;/li&gt;
+&lt;li&gt;open-source (&lt;a href=&#34;https://github.com/spotify/luigi&#34;&gt;https://github.com/spotify/luigi&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
