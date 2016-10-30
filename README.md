@@ -16,7 +16,7 @@ The repository uses github-pages, which requires a `gh-pages` branch.
 Hugo however outputs everything into to `public` folder.
 The `deploy.sh` script and git subtree magic merge these two. All you have to do is run Hugo
 
-    hugo -t folderMap
+    hugo
 
 and run the `deploy.sh` script
 
