@@ -1,20 +1,20 @@
-{{ $.Scratch.Add "Breadcrumbs" (print "" )  }}
+{{ $.Scratch.Add "Breadcrumbs" (print "<a href='https://nicetoknow.github.io'>Nice To Know</a><a href='"  .Site.BaseURL  "'>" .Site.Title "</a> " )  }}
 {{ $currentNode := . }}
 {{ range .Site.Menus.main }}
     {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
-        {{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+        {{ $.Scratch.Add "Breadcrumbs" (print "<a href='" .URL  "'>" .Name "</a>" )  }}
 	    {{ if .HasChildren }}
 		    {{ range .Children }}
 			{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
-				{{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+				{{ $.Scratch.Add "Breadcrumbs" (print "<a href='" .URL  "'>" .Name "</a>" )  }}
 				{{ if .HasChildren }}
 				    {{ range .Children }}
 					{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
-						{{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+						{{ $.Scratch.Add "Breadcrumbs" (print "<a href='" .URL  "'>" .Name "</a>" )  }}
 						{{ if .HasChildren }}
 			  				{{ range .Children }}
 							{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
-								{{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+								{{ $.Scratch.Add "Breadcrumbs" (print "<a href='" .URL  "'>" .Name "</a>" )  }}
 				  			{{ end }}		    
 			  				{{ end }}
 			    	{{ end }}

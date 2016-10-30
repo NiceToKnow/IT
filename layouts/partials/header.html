@@ -3,12 +3,10 @@
 <html lang="{{ with .Site.LanguageCode}}{{ . }}{{ else }}en-US{{end}}">
 <head>
 	<meta charset="UTF-8">
-	<title>{{ if .IsPage }}{{ .Menus.main.Name }} &middot; {{ end }}{{ .Site.Title }}</title>
+	<title>{{ if .IsPage }}{{ .Menus.main.Name }} &middot; {{ end }}Nice To Know {{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css.css" type="text/css" >
 
 </head>
 
 <body >
-<div class="header-main">
-	<h1><a href="{{ .Site.BaseURL }}index.html" rel="home">{{ .Site.Title }}</a></h1>
-</div>
+

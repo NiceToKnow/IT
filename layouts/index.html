@@ -1,7 +1,6 @@
 {{ partial "header.html" . }}
-<nav class="breadcrumb">
-    <a href="{{.Site.BaseURL}}">Home</a> 
-</nav>
+{{ partial "buildMenu.html" . }}
+{{ partial "breadcrumbs.html" . }}
 
 <div class="topics">
 	{{ range .Site.Menus.main }}
