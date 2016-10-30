@@ -10,28 +10,167 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/web/Cloud/</link>
+      <link>https://nicetoknow.github.io/IT/web/cloud-services/aws/AWS/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/web/Cloud/</guid>
+      <guid>https://nicetoknow.github.io/IT/web/cloud-services/aws/AWS/</guid>
+      <description>
+
+&lt;h1 id=&#34;amazon-web-services&#34;&gt;Amazon Web Services&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/cloud-services/aws/EC2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/cloud-services/aws/EC2/</guid>
+      <description>
+
+&lt;h1 id=&#34;elastic-cloud-computing&#34;&gt;Elastic Cloud Computing&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/cloud-services/aws/Elastic%20Beanstalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/cloud-services/aws/Elastic%20Beanstalk/</guid>
+      <description>
+
+&lt;h1 id=&#34;elastic-beanstalk&#34;&gt;Elastic Beanstalk&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/cloud-services/aws/Lamda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/cloud-services/aws/Lamda/</guid>
+      <description>
+
+&lt;h1 id=&#34;lamda&#34;&gt;Lamda&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;serverless architecture&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/cloud-services/Cloud%20Services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/cloud-services/Cloud%20Services/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/web/Static%20Pages/</link>
+      <link>https://nicetoknow.github.io/IT/web/cloud-services/Google%20Cloud%20Engine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/web/Static%20Pages/</guid>
+      <guid>https://nicetoknow.github.io/IT/web/cloud-services/Google%20Cloud%20Engine/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/web/Web/</link>
+      <link>https://nicetoknow.github.io/IT/web/cluster-management/Apache%20Zookeeper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/web/Web/</guid>
+      <guid>https://nicetoknow.github.io/IT/web/cluster-management/Apache%20Zookeeper/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://zookeeper.apache.org/images/zookeeper_small.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/cluster-management/Cluster%20Management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/cluster-management/Cluster%20Management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/cluster-management/Mesos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/cluster-management/Mesos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://mesosphere.com/wp-content/themes/mesosphere/library/images/views/why-mesos/mesos-logo.png?v1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/servers/Apache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/servers/Apache/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://httpd.apache.org/images/httpd_logo_wide_new.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://httpd.apache.org&#34;&gt;https://httpd.apache.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/servers/Caddy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/servers/Caddy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Caddy_web_server_logo.svg/2000px-The_Caddy_web_server_logo.svg.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://caddyserver.com&#34;&gt;https://caddyserver.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;supports HTTP/2&lt;/li&gt;
+&lt;li&gt;native SSL&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/servers/nodejs/NodeJS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/servers/nodejs/NodeJS/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/Paket%20Managers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/Paket%20Managers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/Yarn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/Yarn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://code.facebook.com/posts/1840075619545360&#34;&gt;https://code.facebook.com/posts/1840075619545360&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/npm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/npm/</guid>
       <description></description>
     </item>
     

@@ -108,6 +108,20 @@
     
     <item>
       <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/dynomite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/dynomite/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;developed by Netflix&lt;/li&gt;
+&lt;li&gt;based on the Amazon Dynamo paper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Netflix/dynomite&#34;&gt;https://github.com/Netflix/dynomite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
