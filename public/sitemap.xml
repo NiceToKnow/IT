@@ -54,6 +54,102 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Hive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Zeppelin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Presto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/iPython/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/kibana/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/tableau/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/bundles/Bundles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/bundles/CDH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/bundles/PANCAKE%20Stack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/bundles/SMACK%20Stack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/companies/Companies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Spark/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Storm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/Computing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/MapReduce/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/Data%20Science%20&amp;%20Engineering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/machine-learning/Apache%20Spark%20ML/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/machine-learning/Machine%20Learning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/machine-learning/Tensorflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/streaming/Apache%20Flink/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/streaming/Apache%20Kafka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/streaming/Apache%20Spark%20Streaming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/streaming/Streaming/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</loc>
   </url>
   
@@ -214,6 +310,14 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/programming/languages/Dart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/languages/Go/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/JavaScript/</loc>
   </url>
   
@@ -223,6 +327,10 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/programming/languages/Languages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/languages/Rust/</loc>
   </url>
   
   <url>

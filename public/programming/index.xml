@@ -62,6 +62,24 @@
     
     <item>
       <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/languages/Dart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/languages/Dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/languages/Go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/languages/Go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/JavaScript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -84,6 +102,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/programming/languages/Languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/languages/Rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/languages/Rust/</guid>
       <description></description>
     </item>
     
@@ -124,33 +151,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus recusan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/SystemJS/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/Web%20Toolkits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/Web%20Toolkits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/grunt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/grunt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/gulp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/gulp/</guid>
       <description></description>
     </item>
     
