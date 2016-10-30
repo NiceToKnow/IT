@@ -52,7 +52,21 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/database--storage/Database%20&amp;%20Storage/</guid>
-      <description></description>
+      <description>&lt;p&gt;see &lt;a href=&#34;http://db-engines.com/en/ranking&#34;&gt;Database ranking&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Oracle&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;MS SQL Server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/MongoDB/&#34;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;DB2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/Cassandra/&#34;&gt;Cassandra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MS Access&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/redis/&#34;&gt;redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SQLite&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -120,7 +134,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/database--storage/redis/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://redis.io/images/redis-white.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;re&lt;/em&gt; mote  &lt;em&gt;di&lt;/em&gt; ctionary  &lt;em&gt;s&lt;/em&gt; erver&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://redis.io&#34;&gt;http://redis.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;in-memory database / cache / message broker&lt;/li&gt;
+&lt;li&gt;key-value structure&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
