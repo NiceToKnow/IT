@@ -90,6 +90,10 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/dynomite/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</loc>
   </url>
   
@@ -111,10 +115,6 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/docker/docker-cluster-management/Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/docker/docker-cluster-management/Mesos/</loc>
   </url>
   
   <url>
@@ -194,6 +194,26 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/programming/front-end-frameworks/Angular%202/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/front-end-frameworks/AngularJS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/front-end-frameworks/Front-End%20Frameworks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/front-end-frameworks/ReactJS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/front-end-frameworks/vue/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/JavaScript/</loc>
   </url>
   
@@ -218,7 +238,91 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/Cloud/</loc>
+    <loc>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/SystemJS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/Web%20Toolkits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/grunt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/gulp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/webpack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/AWS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/EC2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/Elastic%20Beanstalk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/Lamda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/Cloud%20Services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/Google%20Cloud%20Engine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cluster-management/Apache%20Zookeeper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cluster-management/Cluster%20Management/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cluster-management/Mesos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/Apache/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/Caddy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/nodejs/NodeJS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/Paket%20Managers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/Yarn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/nodejs/paket-managers/npm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/Servers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/servers/nginx/</loc>
   </url>
   
   <url>

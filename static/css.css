@@ -4,6 +4,10 @@ html {
     padding: 5%;
 }
 
+img{
+    max-width: 80%;
+}
+
 .topics {
     display: flex;
     flex-flow: row wrap;

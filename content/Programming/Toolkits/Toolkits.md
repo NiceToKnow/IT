@@ -1,6 +1,6 @@
 +++
 [menu.main]
-Name = "Programming Toolkits"
+Name = "Toolkits"
 identifier = "Toolkits"
 parent = "Programming"
 +++
