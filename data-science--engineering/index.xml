@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science &amp; Engineering-rsses on IT</title>
+    <link>https://nicetoknow.github.io/IT/data-science--engineering/index.xml</link>
+    <description>Recent content in Data Science &amp; Engineering-rsses on IT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nicetoknow.github.io/IT/data-science--engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Hive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Hive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Zeppelin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Zeppelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Presto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Presto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/iPython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/iPython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/kibana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/kibana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/tableau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/Bundles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/Bundles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/CDH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/CDH/</guid>
+      <description>
+
+&lt;h1 id=&#34;cloudera-distribution-including-apache-hadoop&#34;&gt;Cloudera Distribution including Apache Hadoop&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/PANCAKE%20Stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/PANCAKE%20Stack/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pancake-stack.com/&#34;&gt;http://pancake-stack.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fluxcapacitor/pipeline/wiki&#34;&gt;https://github.com/fluxcapacitor/pipeline/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/SMACK%20Stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/SMACK%20Stack/</guid>
+      <description>
+
+&lt;h1 id=&#34;smack-stack&#34;&gt;SMACK Stack&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Mesos&lt;/li&gt;
+&lt;li&gt;Akka&lt;/li&gt;
+&lt;li&gt;Cassandra&lt;/li&gt;
+&lt;li&gt;Kafka&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/companies/Companies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/companies/Companies/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pipeline.io&#34;&gt;Pipeline.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mesosphere.com&#34;&gt;mesosphere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://databricks.com/try-databricks&#34;&gt;Databricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.datastax.com&#34;&gt;DataStax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lightbend.com&#34;&gt;Lightbend&lt;/a&gt; (formerly Typesafe)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudera.com&#34;&gt;cloudera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hortonworks.com&#34;&gt;Hortonworks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Storm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Storm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/computing/Computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/computing/Computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
