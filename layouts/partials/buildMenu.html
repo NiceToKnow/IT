@@ -1,3 +1,4 @@
+{{ $.Scratch.Add "Breadcrumbs" (print "" )  }}
 {{ $currentNode := . }}
 {{ range .Site.Menus.main }}
     {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
