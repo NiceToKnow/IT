@@ -4,40 +4,65 @@ html {
     padding: 5%;
 }
 
-img{
+img {
     max-width: 80%;
 }
 
 .topics {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
-    align-items: flex-start;
 }
 
 .topic {
-    display: block;
+    height: 100%;
     margin: 10px;
     border: 1px solid black;
-    flex-grow: 1;
-    flex-basis: content;
-    background-color: rgba(234, 233, 224, 0.5);
+    background-color: rgba(234, 233, 224, 1);
+    font-size: 1.1rem;
+}
+
+.topic:hover a,
+.topic:hover .topic a, 
+.topic:hover .topic .topic a,
+.topic:hover .topic .topic .topic a {
+    color: #2A75BA;   
+    transition: all 0.5s;
 }
 
 .topic .topic {
+    display: flex;
+    flex-flow: row wrap;
+    flex-basis: content;
     font-size: 0.9rem;
+    background-color: rgba(234, 233, 224, 0.6);
+}
+
+.topic .topic a{
+    color: #4C97DC;
+    transition: all 0.5s;
 }
 
 .topic .topic .topic {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
+    color: #666;
+    background-color: rgba(234, 233, 224, 0.4);
+}
+
+.topic .topic .topic a{
+    color: #6EB9FE;
+    transition: all 0.5s;
 }
 
 .topic .topic .topic .topic {
-    font-size: 0.7rem;
+    font-size: 0.5rem;
+    color: #888;
+    background-color: rgba(234, 233, 224, 0.1);
 }
 
 .topic>a {
     display: inline-block;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
     margin: 10px;
 }
 
@@ -46,11 +71,11 @@ img{
 }
 
 .topic .topic .topic>a {
-    margin: 6px;
+    margin: 6px 8px;
 }
 
 .topic .topic .topic .topic>a {
-    margin: 4px;
+    margin: 4px 6px;
 }
 
 h1 {
