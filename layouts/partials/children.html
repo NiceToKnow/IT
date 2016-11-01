@@ -1,24 +1,12 @@
 <div class="topic">
-    <a href="{{.URL}}">{{ .Name }} </a>
+	<div class="topictitle">
+    	<a href="{{.URL}}">{{ .Name }} </a>
+	</div>
+	<div class="topicchildren">
     {{ if .HasChildren }}
         {{ range .Children }}				    
-    	<div class="topic">
-    	    <a href="{{.URL}}">{{ .Name }}</a>
-            {{ if .HasChildren }}
-    	        {{ range .Children }}				    
-    	    	<div class="topic">
-    	    	    <a href="{{.URL}}">{{ .Name }}</a>
-                    {{ if .HasChildren }}
-    	                {{ range .Children }}				    
-    	           	    <div class="topic">
-    	           	        <a href="{{.URL}}">{{ .Name }}</a>
-    	           	    </div>
-    	               {{ end }}
-    	           {{ end }}
-    	    	</div>
-    	        {{ end }}
-    	    {{ end }}
-    	</div>
+			{{ partial "children.html" . }}
     	{{ end }}
     {{ end }}
+	</div>
 </div>
