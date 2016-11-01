@@ -1,6 +1,6 @@
 +++
 [menu.main]
-Name = "Computing"
+Name = "Knowledge Discovery"
 parent = "Data Science"
 +++
 

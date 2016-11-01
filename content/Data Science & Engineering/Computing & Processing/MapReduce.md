@@ -1,6 +1,6 @@
 +++
 [menu.main]
 Name = "MapReduce"
-parent = "Computing"
+parent = "Computing & Processing"
 +++
 

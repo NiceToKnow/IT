@@ -1,6 +1,6 @@
 +++
 [menu.main]
 Name = "Apache Storm"
-parent = "Computing"
+parent = "Computing & Processing"
 +++
 
