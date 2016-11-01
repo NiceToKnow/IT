@@ -102,19 +102,23 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Spark/</loc>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing--processing/Apache%20Spark/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/Apache%20Storm/</loc>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing--processing/Apache%20Storm/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/Computing/</loc>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing--processing/Computing%20&amp;%20Processing/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing/MapReduce/</loc>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing--processing/Dataflow%EF%BC%8FApache%20Beam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing--processing/MapReduce/</loc>
   </url>
   
   <url>
@@ -122,7 +126,19 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/knowledge-discovery/Apache%20UIMA/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/knowledge-discovery/Knowledge%20Discovery/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/data-science--engineering/machine-learning/Apache%20Spark%20ML/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/machine-learning/Deep%20Learning/</loc>
   </url>
   
   <url>
@@ -147,6 +163,10 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/data-science--engineering/streaming/Streaming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/websites/Websites/</loc>
   </url>
   
   <url>

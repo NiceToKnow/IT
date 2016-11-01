@@ -11,6 +11,7 @@ img {
 .topics {
     display: flex;
     flex-flow: row wrap;
+    flex-basis: content;
 }
 
 .topic {
@@ -21,11 +22,21 @@ img {
     font-size: 1.1rem;
 }
 
+.topictitle {
+    width: 100%;
+}
+
+.topicchildren {
+    display: flex;
+    flex-flow: row wrap;
+    flex-basis: content;
+}
+
 .topic:hover a,
-.topic:hover .topic a, 
+.topic:hover .topic a,
 .topic:hover .topic .topic a,
 .topic:hover .topic .topic .topic a {
-    color: #2A75BA;   
+    color: #2A75BA;
     transition: all 0.5s;
 }
 
@@ -37,44 +48,39 @@ img {
     background-color: rgba(234, 233, 224, 0.6);
 }
 
-.topic .topic a{
+.topic .topic a {
     color: #4C97DC;
     transition: all 0.5s;
 }
 
 .topic .topic .topic {
     font-size: 0.7rem;
-    color: #666;
     background-color: rgba(234, 233, 224, 0.4);
 }
 
-.topic .topic .topic a{
+.topic .topic .topic a {
     color: #6EB9FE;
     transition: all 0.5s;
 }
 
 .topic .topic .topic .topic {
     font-size: 0.5rem;
-    color: #888;
     background-color: rgba(234, 233, 224, 0.1);
 }
 
-.topic>a {
-    display: inline-block;
-    flex-shrink: 0;
-    flex-wrap: nowrap;
+.topic .topictitle {
     margin: 10px;
 }
 
-.topic .topic>a {
+.topic .topic .topictitle {
     margin: 8px;
 }
 
-.topic .topic .topic>a {
+.topic .topic .topic .topictitle {
     margin: 6px 8px;
 }
 
-.topic .topic .topic .topic>a {
+.topic .topic .topic .topic .topictitle {
     margin: 4px 6px;
 }
 
@@ -93,12 +99,6 @@ a:active {
     color: #2A75BA;
     outline: 0px none;
     text-decoration: underline;
-}
-
-.header-main h1 {
-    border-bottom: 1px solid #DDD;
-    margin-bottom: 2rem;
-    position: relative;
 }
 
 nav {
