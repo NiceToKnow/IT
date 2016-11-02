@@ -6,51 +6,19 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/config-files/Config-Files/</loc>
+    <loc>https://nicetoknow.github.io/IT/cybersecurity--law/Cybersecurity%20&amp;%20Law/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/config-files/JSON/</loc>
+    <loc>https://nicetoknow.github.io/IT/cybersecurity--law/Digital%20Rights%20Management/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/config-files/TOML/</loc>
+    <loc>https://nicetoknow.github.io/IT/cybersecurity--law/SIEM/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/config-files/XML/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/config-files/YAML/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/cybersecurity/Cybersecurity/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/cybersecurity/SIEM/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/data-concepts/Big%20Data/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/data-concepts/Data%20Concepts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/data-concepts/Data%20Thinking/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/data-concepts/Data-Driven/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/data-concepts/Smart%20Data/</loc>
+    <loc>https://nicetoknow.github.io/IT/cybersecurity--law/Smart%20Contract/</loc>
   </url>
   
   <url>
@@ -119,6 +87,26 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/data-science--engineering/computing--processing/MapReduce/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/data-concepts/Big%20Data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/data-concepts/Data%20Concepts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/data-concepts/Data%20Thinking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/data-concepts/Data-Driven/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/data-science--engineering/data-concepts/Smart%20Data/</loc>
   </url>
   
   <url>
@@ -222,46 +210,6 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/editors/Atom/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/editors/Eclipse/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/editors/Editors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/editors/IntelliJ%20IDEA/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/editors/Sublime/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/editors/VS%20Code/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/editors/Visual%20Studio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/law/Digital%20Rights%20Management/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/law/Law/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/law/Smart%20Contract/</loc>
-  </url>
-  
-  <url>
     <loc>https://nicetoknow.github.io/IT/metrics/Daily%20Active%20Users/</loc>
   </url>
   
@@ -359,6 +307,66 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/webpack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/config-files/Config-Files/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/config-files/JSON/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/config-files/TOML/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/config-files/XML/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/config-files/YAML/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/Atom/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/Eclipse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/Editors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/IntelliJ%20IDEA/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/Sublime/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/VS%20Code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/editors/Visual%20Studio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/Tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/workflow/Luigi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/tools/workflow/Workflow/</loc>
   </url>
   
   <url>
@@ -483,14 +491,6 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/web/Web/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/workflow/Cybersecurity/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/workflow/Luigi/</loc>
   </url>
   
   <url>
