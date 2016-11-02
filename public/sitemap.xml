@@ -222,30 +222,6 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/docker/docker-cluster-management/Docker%20Cluster%20Management/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/docker/docker-cluster-management/Docker%20Swarm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/docker/docker-cluster-management/Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/docker/docker-service-discovery/Consul/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/docker/docker-service-discovery/Docker%20Service%20Discovery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/docker/Docker/</loc>
-  </url>
-  
-  <url>
     <loc>https://nicetoknow.github.io/IT/editors/Atom/</loc>
   </url>
   
@@ -386,39 +362,87 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/AWS/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/EC2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/Elastic%20Beanstalk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/aws/Lamda/</loc>
-  </url>
-  
-  <url>
     <loc>https://nicetoknow.github.io/IT/web/cloud-services/Cloud%20Services/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/Google%20Cloud%20Engine/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/AWS/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cluster-management/Apache%20Zookeeper/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/EC2/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cluster-management/Cluster%20Management/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/Elastic%20Beanstalk/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cluster-management/Mesos/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/Lamda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/Google%20Cloud%20Engine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/Infrastructure%20aaS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/OpenStack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/platform-aas/DEIS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/platform-aas/OpenShift/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/platform-aas/Platform%20aaS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/software-aas/Software%20aaS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/cluster-management-orchestration/Apache%20Mesos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/cluster-management-orchestration/Apache%20Zookeeper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/cluster-management-orchestration/Cluster%20Management%20%EF%BC%8FOrchestration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/cluster-management-orchestration/Docker%20Swarm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/cluster-management-orchestration/Kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/Containerization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/docker/docker-service-discovery/Consul/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/docker/docker-service-discovery/Docker%20Service%20Discovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/containerization/docker/Docker/</loc>
   </url>
   
   <url>

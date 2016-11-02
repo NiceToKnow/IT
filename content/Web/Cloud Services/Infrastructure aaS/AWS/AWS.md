@@ -2,7 +2,7 @@
 [menu.main]
 Name = "AWS"
 identifier = "AWS"
-parent = "Cloud Services"
+parent = "Infrastructure aaS"
 +++
 
 # Amazon Web Services
