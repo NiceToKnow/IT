@@ -10,123 +10,40 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/config-files/Config-Files/</link>
+      <link>https://nicetoknow.github.io/IT/cybersecurity--law/Cybersecurity%20&amp;%20Law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/config-files/Config-Files/</guid>
+      <guid>https://nicetoknow.github.io/IT/cybersecurity--law/Cybersecurity%20&amp;%20Law/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/config-files/JSON/</link>
+      <link>https://nicetoknow.github.io/IT/cybersecurity--law/Digital%20Rights%20Management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/config-files/JSON/</guid>
+      <guid>https://nicetoknow.github.io/IT/cybersecurity--law/Digital%20Rights%20Management/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/config-files/TOML/</link>
+      <link>https://nicetoknow.github.io/IT/cybersecurity--law/SIEM/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/config-files/TOML/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/config-files/XML/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/config-files/XML/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/config-files/YAML/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/config-files/YAML/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/cybersecurity/Cybersecurity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/cybersecurity/Cybersecurity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/cybersecurity/SIEM/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/cybersecurity/SIEM/</guid>
+      <guid>https://nicetoknow.github.io/IT/cybersecurity--law/SIEM/</guid>
       <description>&lt;p&gt;Security information and event management&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/data-concepts/Big%20Data/</link>
+      <link>https://nicetoknow.github.io/IT/cybersecurity--law/Smart%20Contract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/data-concepts/Big%20Data/</guid>
-      <description>&lt;p&gt;When data is so huge that the usual approaches don&amp;rsquo;t work anymore.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Hadoop has made storing a lot of data reliably (&amp;ldquo;resiliently&amp;rdquo;) very cheap.&lt;/li&gt;
-&lt;li&gt;This data needs to be analysed to gain knowledge.&lt;/li&gt;
-&lt;li&gt;This process should work automatically and in production.&lt;/li&gt;
-&lt;li&gt;This process should work in real-time (streaming).&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/data-concepts/Data%20Concepts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/data-concepts/Data%20Concepts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/data-concepts/Data%20Thinking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/data-concepts/Data%20Thinking/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.unbelievable-machine.com/blog/einfuehrung-ins-data-thinking-wegweisende-um-talks-beim-big-data-summit/&#34;&gt;https://blog.unbelievable-machine.com/blog/einfuehrung-ins-data-thinking-wegweisende-um-talks-beim-big-data-summit/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/data-concepts/Data-Driven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/data-concepts/Data-Driven/</guid>
-      <description>&lt;p&gt;Companies want to be &lt;em&gt;data driven&lt;/em&gt;, i.e. make decisions on data provided during actual customer interactions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/data-concepts/Smart%20Data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/data-concepts/Smart%20Data/</guid>
-      <description>&lt;p&gt;A lot of data that can be approached with the Big Data tools, but still fits on one machine, so it does not need to be distributed.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Big RAM is eating big data&amp;rdquo; (&lt;a href=&#34;http://www.kdnuggets.com/2015/11/big-ram-big-data-size-datasets.html&#34;&gt;http://www.kdnuggets.com/2015/11/big-ram-big-data-size-datasets.html&lt;/a&gt;)&lt;/p&gt;
+      <guid>https://nicetoknow.github.io/IT/cybersecurity--law/Smart%20Contract/</guid>
+      <description>&lt;p&gt;Computer programs that enforce a contract and can otherwise do harm to a computer or restrict the use of
+some file or program (see &lt;a href=&#34;https://nicetoknow.github.io/IT/cybersecurity--law/Digital%20Rights%20Management/&#34;&gt;DRM&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
@@ -155,6 +72,96 @@
       
       <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Zeppelin/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Presto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Presto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/iPython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/iPython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/kibana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/kibana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/analysis/tableau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/analysis/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/Bundles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/Bundles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/CDH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/CDH/</guid>
+      <description>
+
+&lt;h1 id=&#34;cloudera-distribution-including-apache-hadoop&#34;&gt;Cloudera Distribution including Apache Hadoop&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/PANCAKE%20Stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/PANCAKE%20Stack/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pancake-stack.com/&#34;&gt;http://pancake-stack.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fluxcapacitor/pipeline/wiki&#34;&gt;https://github.com/fluxcapacitor/pipeline/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/data-science--engineering/bundles/SMACK%20Stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/data-science--engineering/bundles/SMACK%20Stack/</guid>
+      <description>
+
+&lt;h1 id=&#34;smack-stack&#34;&gt;SMACK Stack&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Mesos&lt;/li&gt;
+&lt;li&gt;Akka&lt;/li&gt;
+&lt;li&gt;Cassandra&lt;/li&gt;
+&lt;li&gt;Kafka&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
