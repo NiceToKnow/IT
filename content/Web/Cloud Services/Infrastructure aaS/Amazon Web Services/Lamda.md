@@ -2,7 +2,7 @@
 [menu.main]
 Name = "Lamda"
 identifier = "Lamda"
-parent = "AWS"
+parent = "Amazon Web Services"
 +++
 
 # Lamda

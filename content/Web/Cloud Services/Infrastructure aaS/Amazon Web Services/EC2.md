@@ -2,7 +2,7 @@
 [menu.main]
 Name = "EC2"
 identifier = "EC2"
-parent = "AWS"
+parent = "Amazon Web Services"
 +++
 
 # Elastic Cloud Computing

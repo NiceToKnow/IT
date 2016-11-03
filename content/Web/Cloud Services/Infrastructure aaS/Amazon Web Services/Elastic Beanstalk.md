@@ -2,7 +2,7 @@
 [menu.main]
 Name = "Elastic Beanstalk"
 identifier = "Elastic Beanstalk"
-parent = "AWS"
+parent = "Amazon Web Services"
 +++
 
 # Elastic Beanstalk
