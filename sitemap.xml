@@ -374,27 +374,35 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/AWS/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/amazon-web-services/Amazon%20Web%20Services/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/EC2/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/amazon-web-services/EC2/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/Elastic%20Beanstalk/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/amazon-web-services/Elastic%20Beanstalk/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/aws/Lamda/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/amazon-web-services/Lamda/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/Google%20Cloud%20Engine/</loc>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/google-cloud-platform/Google%20Cloud%20Engine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/ibm-cloud/IBM%20Cloud/</loc>
   </url>
   
   <url>
     <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/Infrastructure%20aaS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/web/cloud-services/infrastructure-aas/microsoft-azure/Microsoft%20Azure/</loc>
   </url>
   
   <url>
