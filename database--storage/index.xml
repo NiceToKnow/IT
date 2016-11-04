@@ -10,39 +10,37 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/access-layer/Access%20Layer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/access-layer/Access%20Layer/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/AWS%20S3/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/access-layer/Apache%20Hive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/AWS%20S3/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/access-layer/Apache%20Hive/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/Cassandra/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/access-layer/Apache%20Kudu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/Cassandra/</guid>
-      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/CoackroachDB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/CoackroachDB/</guid>
-      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
+      <guid>https://nicetoknow.github.io/IT/database--storage/access-layer/Apache%20Kudu/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://d3dr9sfxru4sde.cloudfront.net/i/k/apachekudu_logo_0716_345px.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kudu.apache.org&#34;&gt;http://kudu.apache.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;provides a combination of fast inserts/updates&lt;/li&gt;
+&lt;li&gt;enables multiple real-time analytic workloads across a single storage layer&lt;/li&gt;
+&lt;li&gt;complement to HDFS and Apache HBase&lt;/li&gt;
+&lt;li&gt;“Engineered to take advantage of next-generation hardware and in-memory processing, Kudu lowers query latency significantly for Apache Impala (incubating) and Apache Spark (initially, with other execution engines to come)”&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -58,12 +56,12 @@
 &lt;li&gt;Oracle&lt;/li&gt;
 &lt;li&gt;MySQL&lt;/li&gt;
 &lt;li&gt;MS SQL Server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/MongoDB/&#34;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/document/MongoDB/&#34;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;PostgreSQL&lt;/li&gt;
 &lt;li&gt;DB2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/Cassandra/&#34;&gt;Cassandra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/wide-column/Cassandra/&#34;&gt;Cassandra&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;MS Access&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/redis/&#34;&gt;redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nicetoknow.github.io/IT/database--storage/key-value/redis/&#34;&gt;redis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;SQLite&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -71,47 +69,28 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/Hadoop/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/AWS%20Dynamo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/Hadoop/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/AWS%20Dynamo/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/Memcached/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/MongoDB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/Memcached/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/MongoDB/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/MongoDB/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/dynomite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/MongoDB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/Riak/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/Riak/</guid>
-      <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/dynomite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/dynomite/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/dynomite/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;developed by Netflix&lt;/li&gt;
 &lt;li&gt;based on the Amazon Dynamo paper&lt;/li&gt;
@@ -122,32 +101,54 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/key-value/Key-Value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</guid>
-      <description>&lt;p&gt;Search Engine&lt;/p&gt;
-
-&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
-</description>
+      <guid>https://nicetoknow.github.io/IT/database--storage/key-value/Key-Value/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/etcd/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/key-value/Memcached/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/etcd/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/key-value/Memcached/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/key-value/Riak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/key-value/Riak/</guid>
       <description>&lt;p&gt;Cloud Native / Cluster Aware&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/redis/</link>
+      <link>https://nicetoknow.github.io/IT/database--storage/key-value/etcd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicetoknow.github.io/IT/database--storage/redis/</guid>
+      <guid>https://nicetoknow.github.io/IT/database--storage/key-value/etcd/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/coreos/etcd/raw/master/logos/etcd-horizontal-color.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cloud Native / Cluster Aware&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coreos.com/etcd/&#34;&gt;https://coreos.com/etcd/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/coreos/etcd&#34;&gt;https://github.com/coreos/etcd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/key-value/redis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/key-value/redis/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://redis.io/images/redis-white.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -157,6 +158,40 @@
 &lt;li&gt;key-value structure&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/relational/AWS%20Redshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/relational/AWS%20Redshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/relational/CockroachDB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/relational/CockroachDB/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/cockroachdb/cockroach/raw/master/docs/media/cockroach_db.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cloud Native / Cluster Aware&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cockroachlabs.com&#34;&gt;https://www.cockroachlabs.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cockroachdb/cockroach&#34;&gt;https://github.com/cockroachdb/cockroach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/relational/Relational/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/relational/Relational/</guid>
+      <description></description>
     </item>
     
   </channel>
