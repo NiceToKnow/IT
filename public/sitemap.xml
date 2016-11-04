@@ -26,10 +26,6 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Hive/</loc>
-  </url>
-  
-  <url>
     <loc>https://nicetoknow.github.io/IT/data-science--engineering/analysis/Apache%20Zeppelin/</loc>
   </url>
   
@@ -158,19 +154,15 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/AWS%20Dynamo/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/access-layer/Access%20Layer/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/AWS%20S3/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/access-layer/Apache%20Hive/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/Cassandra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/CoackroachDB/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/access-layer/Apache%20Kudu/</loc>
   </url>
   
   <url>
@@ -178,35 +170,83 @@
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/Hadoop/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/document/AWS%20Dynamo/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/Memcached/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/document/MongoDB/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/MongoDB/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/document/dynomite/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/Riak/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/key-value/Key-Value/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/dynomite/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/key-value/Memcached/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/elastiscearch/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/key-value/Riak/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/etcd/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/key-value/etcd/</loc>
   </url>
   
   <url>
-    <loc>https://nicetoknow.github.io/IT/database--storage/redis/</loc>
+    <loc>https://nicetoknow.github.io/IT/database--storage/key-value/redis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/relational/AWS%20Redshift/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/relational/CockroachDB/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/relational/Relational/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/search-engine/Search%20Engine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/search-engine/elastiscearch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/time-series/Druid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/time-series/Time%20Series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/web-service/AWS%20S3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/web-service/Web%20Service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/wide-column/Cassandra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/wide-column/HBase/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/database--storage/wide-column/Wide%20Column/</loc>
   </url>
   
   <url>
