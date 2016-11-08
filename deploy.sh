@@ -1,5 +1,11 @@
 #!/bin/sh
 
+git fetch
+if [[ "$(git rev-parse HEAD)" != "$(git rev-parse @{u})" ]]
+	then echo "\033[31mCurrent branch is not up-to-date, please pull first!\033[0m"
+	exit
+fi
+
 echo "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 echo "\033[2m"
