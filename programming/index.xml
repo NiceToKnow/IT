@@ -10,6 +10,42 @@
     
     <item>
       <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/architecture/Architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/architecture/Architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/architecture/Kappa%20Architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/architecture/Kappa%20Architecture/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://milinda.pathirage.org/kappa-architecture.com/&#34;&gt;http://milinda.pathirage.org/kappa-architecture.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;data is stored append-only and immutable&lt;/li&gt;
+&lt;li&gt;data is streamed through a computational system and fed into auxiliary stores for serving&lt;/li&gt;
+&lt;li&gt;simplification of Lambda Architecture&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/architecture/Lamda%20Architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/architecture/Lamda%20Architecture/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lambda_architecture&#34;&gt;https://en.wikipedia.org/wiki/Lambda_architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://nicetoknow.github.io/IT/programming/front-end-frameworks/Angular%202/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -98,6 +134,30 @@
     
     <item>
       <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/Testing%20JavaScript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/Testing%20JavaScript/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jasmine.github.io/2.5/introduction.html&#34;&gt;https://jasmine.github.io/2.5/introduction.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/typescript/TypeScript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/typescript/TypeScript/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;TypeScript Samples from Microsoft: &lt;a href=&#34;https://github.com/Microsoft/TypeScriptSamples&#34;&gt;https://github.com/Microsoft/TypeScriptSamples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://nicetoknow.github.io/IT/programming/languages/Julia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -110,55 +170,6 @@
 &lt;li&gt;&lt;a href=&#34;http://www.waterstechnology.com/waters/feature/2476518/the-infancy-of-julia-an-inside-look-at-how-traders-and-economists-are-using-the-julia-programming-language&#34;&gt;The Infancy of Julia: An Inside Look at How Traders and Economists Are Using the Julia Programming Language&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/languages/Languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/languages/Languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/languages/Rust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/languages/Rust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/languages/scala/Scala/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/languages/scala/Scala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/Programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/Programming/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic doloremque rem at dicta eius omnis? Doloremque magnam facilis non, sint, aut ipsam beatae amet minus molestias quidem, corporis, cumque quis?
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum quisquam commodi, sed reiciendis beatae cupiditate autem, asperiores, iure distinctio accusantium tempora fuga quo excepturi iste illum at doloribus eligendi rem!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque nulla, sit voluptates. Labore sequi a nobis, et architecto culpa officiis, laborum obcaecati maxime ad voluptatum in, explicabo nostrum dolore at.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus recusandae molestiae perferendis animi nulla impedit ipsa sint aspernatur explicabo. Tempora, nemo. Perferendis, facere ullam voluptatem numquam est eos ipsa incidunt.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/toolkits/Toolkits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/toolkits/Toolkits/</guid>
-      <description></description>
     </item>
     
   </channel>

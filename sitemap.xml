@@ -274,6 +274,18 @@
   </url>
   
   <url>
+    <loc>https://nicetoknow.github.io/IT/programming/architecture/Architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/architecture/Kappa%20Architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/architecture/Lamda%20Architecture/</loc>
+  </url>
+  
+  <url>
     <loc>https://nicetoknow.github.io/IT/programming/front-end-frameworks/Angular%202/</loc>
   </url>
   
@@ -307,6 +319,14 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/ScalaJS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/Testing%20JavaScript/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/typescript/TypeScript/</loc>
   </url>
   
   <url>
@@ -547,10 +567,6 @@
   
   <url>
     <loc>https://nicetoknow.github.io/IT/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicetoknow.github.io/IT/programming/languages/javascript-etc/typescript/TypeScript/</loc>
   </url>
   
 </urlset>
