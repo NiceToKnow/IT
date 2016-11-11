@@ -98,6 +98,22 @@
     
     <item>
       <title></title>
+      <link>https://nicetoknow.github.io/IT/programming/languages/Julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/programming/languages/Julia/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://julialang.org/images/logo_hires.png&#34; alt=&#34;Julia Logo&#34; width=&#34;210&#34; height=&#34;142&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://julialang.org&#34;&gt;http://julialang.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JuliaLang/julia&#34;&gt;https://github.com/JuliaLang/julia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.waterstechnology.com/waters/feature/2476518/the-infancy-of-julia-an-inside-look-at-how-traders-and-economists-are-using-the-julia-programming-language&#34;&gt;The Infancy of Julia: An Inside Look at How Traders and Economists Are Using the Julia Programming Language&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://nicetoknow.github.io/IT/programming/languages/Languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -142,15 +158,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus recusan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/programming/toolkits/Toolkits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/SystemJS/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/programming/toolkits/web-toolkits/SystemJS/</guid>
       <description></description>
     </item>
     
