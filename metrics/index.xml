@@ -10,58 +10,42 @@
     
     <item>
       <title></title>
-      <link>https://nicetoknow.github.io/IT/metrics/Daily%20Active%20Users/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/metrics/Daily%20Active%20Users/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://nicetoknow.github.io/IT/metrics/Metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/metrics/Metrics/</guid>
-      <description>&lt;p&gt;See &lt;a href=&#34;http://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/&#34;&gt;http://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;DAU: Daily Active Users&lt;/li&gt;
+&lt;li&gt;WAU: Weekly Active Users&lt;/li&gt;
+&lt;li&gt;MAU: Monthly Active Users&lt;/li&gt;
+&lt;li&gt;CLV / CLTV / LTV / LCV: &lt;a href=&#34;https://en.wikipedia.org/wiki/Customer_lifetime_value&#34;&gt;Customer Lifetime Value&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NPV / NPW: &lt;a href=&#34;https://en.wikipedia.org/wiki/Net_present_value&#34;&gt;Net Present Value / Net Present Worth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CAC: Customer Acquisition Cost&lt;/li&gt;
+&lt;li&gt;Churn / &lt;a href=&#34;https://en.wikipedia.org/wiki/Churn_rate&#34;&gt;Churn Rate&lt;/a&gt; / Attrition Rate: lost users&lt;/li&gt;
+&lt;li&gt;ROI: &lt;a href=&#34;https://en.wikipedia.org/wiki/Return_on_investment&#34;&gt;Return on Investment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stickiness (the DAU/MAU ratio)&lt;/li&gt;
+&lt;li&gt;User Retention&lt;/li&gt;
+&lt;li&gt;AOV: Average Order Value&lt;/li&gt;
+&lt;li&gt;CR: Conversion Rate&lt;/li&gt;
+&lt;li&gt;RPA: Revenue per acquisition&lt;/li&gt;
+&lt;li&gt;CPA: Cost per acquisition&lt;/li&gt;
+&lt;li&gt;TCR: Task Completion Rate&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NPS: &lt;a href=&#34;https://en.wikipedia.org/wiki/Net_Promoter&#34;&gt;Net Promoter Score&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cohort_analysis&#34;&gt;cohort&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;segment&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Funnel_analysis&#34;&gt;funnel&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/&#34;&gt;http://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.klipfolio.com/resources/kpi-examples/saas-metrics&#34;&gt;https://www.klipfolio.com/resources/kpi-examples/saas-metrics&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/&#34;&gt;https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/metrics/Monthly%20Active%20Users/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/metrics/Monthly%20Active%20Users/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/metrics/Stickiness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/metrics/Stickiness/</guid>
-      <description>&lt;p&gt;The DAU/MAU ratio&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/metrics/User%20Retention/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/metrics/User%20Retention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/metrics/Weekly%20Active%20Users/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/metrics/Weekly%20Active%20Users/</guid>
-      <description></description>
     </item>
     
   </channel>
