@@ -1,5 +1,5 @@
 +++
 [menu.main]
-Name = "Document"
+Name = "Key-Value"
 parent = "Database & Storage"
 +++

@@ -4,10 +4,10 @@
 
 
 <div class="topics">
-{{ if ne .Params.menu.main.identifier nil}}
+{{ if ne .Menus.main.Name nil}}
     {{ range (index .Menus "main").Children }}
         {{ partial "children.html" . }}
-{{ end }}
+    {{ end }}
 {{ end }}
 </div>
 

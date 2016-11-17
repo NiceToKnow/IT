@@ -1,8 +1,6 @@
 +++
 [menu.main]
 Name = "Database & Storage"
-identifier = "Database & Storage"
-parent = ""
 +++
 
 see [Database ranking](http://db-engines.com/en/ranking):
