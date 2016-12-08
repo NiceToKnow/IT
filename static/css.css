@@ -41,7 +41,6 @@ img {
 }
 
 .topic .topic {
-    display: flex;
     flex-flow: row wrap;
     flex-basis: content;
     font-size: 0.9rem;
