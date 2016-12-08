@@ -78,11 +78,53 @@
     
     <item>
       <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/CouchDB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/CouchDB/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/CouchDB.svg/256px-CouchDB.svg.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/Couchbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/Couchbase/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.couchbase.com/&#34;&gt;http://www.couchbase.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/Document/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/Document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://nicetoknow.github.io/IT/database--storage/document/MongoDB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nicetoknow.github.io/IT/database--storage/document/MongoDB/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicetoknow.github.io/IT/database--storage/document/PouchDB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicetoknow.github.io/IT/database--storage/document/PouchDB/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;JavaScript DBMS with an API inspired by CouchDB&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pouchdb.com/&#34;&gt;https://pouchdb.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -141,57 +183,6 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/coreos/etcd&#34;&gt;https://github.com/coreos/etcd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/key-value/redis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/key-value/redis/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://redis.io/images/redis-white.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;&lt;em&gt;re&lt;/em&gt; mote  &lt;em&gt;di&lt;/em&gt; ctionary  &lt;em&gt;s&lt;/em&gt; erver&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://redis.io&#34;&gt;http://redis.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;in-memory database / cache / message broker&lt;/li&gt;
-&lt;li&gt;key-value structure&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/relational/AWS%20Redshift/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/relational/AWS%20Redshift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/relational/CockroachDB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/relational/CockroachDB/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/cockroachdb/cockroach/raw/master/docs/media/cockroach_db.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cloud Native / Cluster Aware&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cockroachlabs.com&#34;&gt;https://www.cockroachlabs.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cockroachdb/cockroach&#34;&gt;https://github.com/cockroachdb/cockroach&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicetoknow.github.io/IT/database--storage/relational/Relational/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicetoknow.github.io/IT/database--storage/relational/Relational/</guid>
-      <description></description>
     </item>
     
   </channel>
