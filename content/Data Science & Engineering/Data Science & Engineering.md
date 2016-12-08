@@ -23,3 +23,8 @@ http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
 
 ## TODO
 Apache NiFi (Niagra Falls) https://nifi.apache.org => ???
+
+## Tools
+
+- Weka http://www.cs.waikato.ac.nz/ml/weka/
+- MOA http://moa.cms.waikato.ac.nz
